@@ -19,11 +19,5 @@ Are there any noticeable trends in customer acquisition or churn rates?
 
 How are different regions or territories performing relative to their targets?
 
-project url
-<a>https://github.com/ChandruElamaran/salesman--dashboard/edit/main/Sample Data Set Mr Excel Tamil excel project.xlsx</a>
-
-image url
-<a>https://github.com/ChandruElamaran/salesman--dashboard/edit/main/Screenshot 2025-05-07 152814.png</a>
-
 image
-<a>"C:\Users\elama\OneDrive\Desktop\Screenshot 2025-05-07 152814.png"</a>
+![Screenshot 2025-05-07 152814](https://github.com/user-attachments/assets/bd4b8f26-6e2b-451f-8fd0-b99db71a9f0f)
