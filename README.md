@@ -21,3 +21,15 @@ How are different regions or territories performing relative to their targets?
 
 image
 ![Screenshot 2025-05-07 152814](https://github.com/user-attachments/assets/bd4b8f26-6e2b-451f-8fd0-b99db71a9f0f)
+
+👥 Team & Territory
+🔄 What is the win/loss ratio for deals over the last 30/90 days?
+
+👤 Which sales representatives are exceeding or falling short of their quotas?
+
+🌍 How are different regions or territories performing relative to their targets?
+
+📊 Insights & Optimization
+💰 What is the average deal size and sales cycle duration?
+
+🔁 Are there any noticeable trends in customer acquisition or churn rates?
